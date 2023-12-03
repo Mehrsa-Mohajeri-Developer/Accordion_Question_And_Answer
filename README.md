@@ -1,6 +1,6 @@
 # Accordion_Question_And_Answer
 
-**If you want to see a horizontal menu (With JS), please check out my code ♥️👀**
+**If you want to see a accordion question and answer (With JS), please check out my code ♥️👀**
 
 
 
